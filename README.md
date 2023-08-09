@@ -14,7 +14,6 @@ Código HTML que puede pegar en un sitio web:
 <p align="center">
   <img src="https://melvincolmenares.github.io/dashboard_financiero/gallery/img/img01.png"  width="90%">
 </p>
-
 Proyecto Power BI. Dashboard Financiero - Ventas.
 
 ## Descripción
